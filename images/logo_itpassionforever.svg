@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 40" width="236" height="40">
+	<title>logo</title>
+	<defs>
+		<image  width="236" height="40" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOwAAAAoAQMAAADHZIT1AAAAAXNSR0IB2cksfwAAAANQTFRF//rrwGk78AAAABJJREFUeJxjYBgFo2AUjILhBQAE2AABX0VqhQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;fill: #e9b949;font-weight: 400;font-family: "JungleFever", "JungleFever" } 
+		.t1 { font-size: 24px;fill: #000000;font-weight: 400;font-family: "JungleFever", "JungleFever" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="ITPASSIONFOREVER" style="transform: matrix(.898,0,0,.898,8,13.059)" >
+		<tspan x="0" y="15" class="t0">I</tspan><tspan  y="15" class="t0">T</tspan><tspan  y="15" class="t1">P</tspan><tspan  y="15" class="t1">A</tspan><tspan  y="15" class="t1">S</tspan><tspan  y="15" class="t1">S</tspan><tspan  y="15" class="t1">I</tspan><tspan  y="15" class="t1">O</tspan><tspan  y="15" class="t1">N</tspan><tspan  y="15" class="t1">F</tspan><tspan  y="15" class="t1">O</tspan><tspan  y="15" class="t1">R</tspan><tspan  y="15" class="t1">E</tspan><tspan  y="15" class="t1">V</tspan><tspan  y="15" class="t1">E</tspan><tspan  y="15" class="t1">R</tspan><tspan  y="15" class="t1">
+</tspan>
+	</text>
+</svg>
